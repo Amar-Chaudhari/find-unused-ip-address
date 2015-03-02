@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 # ${1:Find Used & Un-used IP addresses}
 
 Python script to get all used and un-used IP addresses in a subnet
@@ -30,6 +28,4 @@ TODO: Write credits
 ## License
 
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
