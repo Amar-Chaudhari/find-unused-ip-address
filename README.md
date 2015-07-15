@@ -7,7 +7,7 @@ Python script to get all used and un-used IP addresses in a subnet
 
 ## Usage
 
-python find_unused_ip.py 192.168.1.0 192.168.1.255
+./find_unused_ip.py 192.168.1.0 192.168.1.255
 
 ## Contributing
 
